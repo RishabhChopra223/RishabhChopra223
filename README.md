@@ -34,31 +34,33 @@ With strong foundations in **Frontend Development and Machine Learning**, I enjo
 
 ---
 
-## 🎓 Education
+## 🧠 Technical Expertise
 
-**Bachelor of Technology – Computer Science**  
-📍 India | 2021 – 2025 (Expected)
+### 💻 Programming & Markup
+
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-00C2FF?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-80%25-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-65%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🧠 Technical Expertise
+### ⚙️ Frameworks & Libraries
 
-### Languages
-- JavaScript (ES6+)
-- Python
-- HTML5 / CSS3
-- SQL (Basic)
+![React](https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-75%25-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-80%25-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-78%25-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Libraries & Frameworks
-- React (Fundamentals)
-- Scikit-learn
-- Pandas, NumPy
+---
 
-### Tools & Platforms
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- Linux
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-85%25-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-90%25-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-75%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-90%25-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -94,15 +96,7 @@ Each project focuses on performance, usability, and maintainability.
 ## 📊 Development Analytics (Auto Theme)
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=RishabhChopra223&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=RishabhChopra223&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=RishabhChopra223&show_icons=true" />
-  </picture>
+  
 
   <picture>
     <source
@@ -115,17 +109,7 @@ Each project focuses on performance, usability, and maintainability.
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhChopra223&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhChopra223&layout=compact&theme=default"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhChopra223&layout=compact" />
-  </picture>
-</p>
+
 
 ---
 
