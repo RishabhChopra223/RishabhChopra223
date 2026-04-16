@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Rishabh Chopra</h1>
-<h3 align="center">Software Engineer | Frontend Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Software Engineer | FullStack Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RishabhChopra223&label=Profile%20Views&color=00C2FF&style=flat" />
